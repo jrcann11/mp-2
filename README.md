@@ -1,3 +1,7 @@
+# Vercel Deployment will not work due to insecure resource (when fetching the API, it tries to load http over https so the request is blocked by Vercel) - discussed in office hours with Professor Davoodi.
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
